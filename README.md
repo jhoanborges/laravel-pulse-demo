@@ -23,3 +23,4 @@ php artisan migrate
 
 Go to /pulse to view all information about the server.
 
+![alt text](https://github.com/jhoanborges/laravel-pulse-demo/blob/master/public/pulse.png)
